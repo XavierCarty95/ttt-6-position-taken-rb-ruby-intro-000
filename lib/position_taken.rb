@@ -4,3 +4,4 @@ if  board[index] = " " || board[index] = ""
   puts true
 else
   puts false
+end
