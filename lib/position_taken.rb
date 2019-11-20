@@ -2,5 +2,5 @@
 def position_taken
 if  board[index] = " " || board[index] = ""
   puts true
-else 
+else
   puts false
